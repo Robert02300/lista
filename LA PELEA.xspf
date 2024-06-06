@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>cdda:///D:\</location>
+			<trackNum>1</trackNum>
+			<duration>185680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>cdda-track=1</vlc:option>
+				<vlc:option>cdda-first-sector=0</vlc:option>
+				<vlc:option>cdda-last-sector=13926</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>cdda:///D:\</location>
+			<trackNum>2</trackNum>
+			<duration>270960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>cdda-track=2</vlc:option>
+				<vlc:option>cdda-first-sector=13926</vlc:option>
+				<vlc:option>cdda-last-sector=34248</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>cdda:///D:\</location>
+			<trackNum>3</trackNum>
+			<duration>228333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>cdda-track=3</vlc:option>
+				<vlc:option>cdda-first-sector=34248</vlc:option>
+				<vlc:option>cdda-last-sector=51373</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>cdda:///D:\</location>
+			<trackNum>4</trackNum>
+			<duration>157386</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>cdda-track=4</vlc:option>
+				<vlc:option>cdda-first-sector=51373</vlc:option>
+				<vlc:option>cdda-last-sector=63177</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>cdda:///D:\</location>
+			<trackNum>5</trackNum>
+			<duration>211040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>cdda-track=5</vlc:option>
+				<vlc:option>cdda-first-sector=63177</vlc:option>
+				<vlc:option>cdda-last-sector=79005</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>cdda:///D:\</location>
+			<trackNum>6</trackNum>
+			<duration>166706</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>cdda-track=6</vlc:option>
+				<vlc:option>cdda-first-sector=79005</vlc:option>
+				<vlc:option>cdda-last-sector=91508</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>cdda:///D:\</location>
+			<trackNum>7</trackNum>
+			<duration>170813</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>cdda-track=7</vlc:option>
+				<vlc:option>cdda-first-sector=91508</vlc:option>
+				<vlc:option>cdda-last-sector=104319</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>cdda:///D:\</location>
+			<trackNum>8</trackNum>
+			<duration>183693</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>cdda-track=8</vlc:option>
+				<vlc:option>cdda-first-sector=104319</vlc:option>
+				<vlc:option>cdda-last-sector=118096</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
